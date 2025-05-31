@@ -1,5 +1,5 @@
 # Sales-Analysis-dashboard
-# Amazon Sales Analysis Dashboard
+# Amazon Sales Analysis
 
 This project presents a Power BI dashboard that analyzes Amazon sales data to identify key business insights.
 
