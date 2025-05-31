@@ -14,9 +14,8 @@ This project presents a Power BI dashboard that analyzes Amazon sales data to id
 - Power BI: for creating dashboard
 - Excel: for data cleaning and preprocessing
 
-## 📁 File
-- `Amazon Sales.pbix` – Click here  to download
-
----
+  ## 📁 File
+ [Click here to view/download] 
+ (https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Amazon%20Sales.pbix)
 
 
