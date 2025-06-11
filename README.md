@@ -32,7 +32,7 @@ This Power BI project provides an analytical overview of Amazon product sales us
  Click here to view/download: (https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Amazon%20Sales.pbix)
 
 
-## 🧠 What I Learned
+## 📚 What I Learned
 
 - Creating KPIs using DAX
 - Filtering using slicers and bookmarks
