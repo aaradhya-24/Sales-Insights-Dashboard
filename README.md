@@ -41,8 +41,8 @@ It is designed to help businesses and stakeholders understand performance metric
 - 🔹 Highest Sales: **Men’s Shoes** (43.18% of YTD sales)
 - 🔹 Most Reviewed Product: **SanDisk 128GB USB** with 0.40M reviews
 - 🔹 Quarterly trends highlight major spikes in **Q4**
-- 
-
+  
+  
 ## 📚 What I Learned
 
 - Creating KPIs using DAX
