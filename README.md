@@ -34,12 +34,22 @@ It is designed to help businesses and stakeholders understand performance metric
  Click here to view/download:
  (https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Amazon%20Sales.pbix)
 
+ ## 💡 Sample Insights
+
+- 🔹 YTD Sales: $2.18M across all product categories
+- 🔹 Highest Sales: **Men’s Shoes** (43.18% of YTD sales)
+- 🔹 Most Reviewed Product: **SanDisk 128GB USB** with 0.40M reviews
+- 🔹 Quarterly trends highlight major spikes in **Q4**
 
 ## 📚 What I Learned
 
 - Creating KPIs using DAX
 - Filtering using slicers and bookmarks
 - Designing a clean, dark-themed dashboard layout
+
+## 📎 Tags
+
+`#PowerBI` `#AmazonSales` `#DataVisualization` `#BusinessDashboard` `#SalesAnalytics`
 
 ---
 
