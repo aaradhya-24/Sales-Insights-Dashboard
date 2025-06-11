@@ -25,8 +25,7 @@ This Power BI project provides an analytical overview of Amazon product sales us
 
 ## 📷 Dashboard Snapshot
 
-![Dashboard Snapshot](Sales%20Analytics%20Dashboard%20Snapshot.png)
-
+![Dashboard Snapshot](https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
 ---
 
  ## 📁 File
