@@ -1,5 +1,5 @@
 # 📊 Amazon Sales Insights Dashboard
-
+## Project Overview 
 This Power BI project provides an analytical overview of Amazon product sales using interactive visuals and filters. It is designed to help businesses and stakeholders understand performance metrics such as product-wise sales, review volumes, and quarterly trends.
 
 ---
@@ -29,7 +29,8 @@ This Power BI project provides an analytical overview of Amazon product sales us
 ---
 
  ## 📁 File
- Click here to view/download: (https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Amazon%20Sales.pbix)
+ Click here to view/download:
+ (https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Amazon%20Sales.pbix)
 
 
 ## 📚 What I Learned
