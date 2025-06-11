@@ -13,7 +13,7 @@ It is designed to help businesses and stakeholders understand performance metric
 - **Top-Selling Products**
 - **Product Categories by Sales Contribution**
 - **YTD Reviews Volume**
-- **Interactive Slicers** for Category and Quarter
+- **Interactive Slicers**
 
 ---
 
