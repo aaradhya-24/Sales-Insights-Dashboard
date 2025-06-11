@@ -1,20 +1,43 @@
-# Sales-Analysis-dashboard
-# Amazon Sales Analysis
+# 📊 Amazon Sales Insights Dashboard
 
-This project presents a Power BI dashboard that analyzes Amazon sales data to identify key business insights.
+This Power BI project provides an analytical overview of Amazon product sales using interactive visuals and filters. It is designed to help businesses and stakeholders understand performance metrics such as product-wise sales, review volumes, and quarterly trends.
 
-## 📊 Key Insights & Features
-- Total Sales, Profit, and Orders KPIs
-- Monthly sales trend and revenue growth
-- Top-performing products and categories
-- Region-wise performance analysis
-- Interactive filters for better user exploration
+---
 
-## 🛠️ Tools Used
-- Power BI: for creating dashboard
-- Excel: for data cleaning and preprocessing
+## 📌 Key Features
 
-  ## 📁 File
+- **YTD & QTD Sales Analysis**
+- **Weekly and Monthly Sales Trends**
+- **Top-Selling Products**
+- **Product Categories by Sales Contribution**
+- **YTD Reviews Volume**
+- **Interactive Slicers** for Category and Quarter
+
+---
+
+## 🧰 Tools Used
+
+- Power BI
+- DAX
+- Excel (for base dataset)
+
+---
+
+## 📷 Dashboard Snapshot
+
+![Dashboard Snapshot](Sales%20Analytics%20Dashboard%20Snapshot.png)
+
+---
+
+ ## 📁 File
  Click here to view/download: (https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Amazon%20Sales.pbix)
 
+
+## 🧠 What I Learned
+
+- Creating KPIs using DAX
+- Filtering using slicers and bookmarks
+- Designing a clean, dark-themed dashboard layout
+
+---
 
