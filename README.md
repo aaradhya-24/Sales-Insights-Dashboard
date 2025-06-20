@@ -27,7 +27,7 @@ It is designed to help businesses and stakeholders understand performance metric
 
 ## 📷 Dashboard Preview
 
-![Dashboard Snapshot](https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
+![Dashboard Snapshot](https://github.com/aaradhya-24/Sales-Insights-Dashboard/blob/main/Sales%20Analytics%20Dashboard%20Snapshot.png)
 ---
 
  ## 📁 File
