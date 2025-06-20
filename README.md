@@ -32,7 +32,7 @@ It is designed to help businesses and stakeholders understand performance metric
 
  ## 📁 File
  Click here to view/download:
- (https://github.com/aaradhya-24/Sales-Analysis-dashboard/blob/main/Amazon%20Sales.pbix)
+ (https://github.com/aaradhya-24/Sales-Insights-Dashboard/blob/main/Amazon%20Sales%20Insights%20Dashboard.pbix)
 
 
  ## 💡 Sample Insights
