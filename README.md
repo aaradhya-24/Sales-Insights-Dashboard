@@ -27,7 +27,7 @@ It is designed to help businesses and stakeholders understand performance metric
 
 ## 📷 Dashboard Preview
 
-![Dashboard Snapshot](https://github.com/aaradhya-24/Sales-Insights-Dashboard)
+![Dashboard Snapshot](https://github.com/aaradhya-24/Sales-Insights-Dashboard/blob/main/Amazon%20Sales%20Performance%20Dashboard%20Snapshot.png)
 ---
 
  ## 📁 File
